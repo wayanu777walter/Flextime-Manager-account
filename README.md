@@ -18,8 +18,11 @@ Flextime Manager account is a modern web application designed to simplify flexib
 - JavaScript (ES6)
 
 ## Author
-**Name:** wayanu
-**Email:** wayanu777walter@outlook.com
+**Name:** wayanu 
+
+**Email:** wayanu777walter@outlook.com 
+
 **Website:** Flextime Manager account  
+
 **Bio:** A passionate developer with mastery in coding, experienced in building scalable web applications, and known for a helping nature in open-source communities.
 
